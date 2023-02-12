@@ -1,0 +1,21 @@
+{
+  "name": "intellij-vscode-soft-dark-theme",
+  "displayName": "Intellij+VsCode Soft Dark Theme",
+  "description": "Mix of IntelliJ IDEA theme and VsCode Dark+ theme with additional soft colors in editor",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "intellij-vscode-soft-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij-vscode-soft-dark-theme.json"
+      }
+    ]
+  }
+}
