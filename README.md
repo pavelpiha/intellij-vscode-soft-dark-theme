@@ -6,7 +6,12 @@ Mix of IntelliJ IDEA theme and VsCode Dark+ theme with additional soft colors in
 
 
 ## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
+```ext install PavloPiga.intellij-vscode-soft-dark-theme```
+
+or:
+[Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=PavloPiga.intellij-vscode-soft-dark-theme)
 ## JetBrains Mono Font Installation
 - Downloaded and install JetBrains Mono font https://www.jetbrains.com/lp/mono
 - Add this snippet in your "settings.json":
@@ -18,7 +23,7 @@ Mix of IntelliJ IDEA theme and VsCode Dark+ theme with additional soft colors in
     ```
 
 ## Screenshots
-
+![ScreenShot](https://github.com/pavelpiha/intellij-vscode-soft-dark-theme/assets/screenshot.jpg)
 
 ## Syntax Support
 - Javascript
@@ -32,8 +37,6 @@ Mix of IntelliJ IDEA theme and VsCode Dark+ theme with additional soft colors in
 - Dockerfile
 - Go
 - and more...
-
-## Changelog
 
 
 ## License
