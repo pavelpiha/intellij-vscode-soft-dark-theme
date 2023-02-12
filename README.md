@@ -23,7 +23,7 @@ or:
     ```
 
 ## Screenshots
-![ScreenShot](https://github.com/pavelpiha/intellij-vscode-soft-dark-theme/assets/screenshot.jpg)
+![ScreenShot](https://github.com/pavelpiha/intellij-vscode-soft-dark-theme/raw/HEAD/assets/screenshot.jpg)
 
 ## Syntax Support
 - Javascript
